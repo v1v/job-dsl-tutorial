@@ -1,0 +1,9 @@
+.java/
+plugins/
+war/
+secrets/
+init.groovy.d
+fs/*.*
+fs/updates/
+fs/userContent
+fs/jobs/seed/builds
